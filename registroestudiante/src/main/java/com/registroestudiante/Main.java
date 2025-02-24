@@ -13,7 +13,7 @@ public class Main {
         try {
             Scanner sc = new Scanner(System.in); //Creación del buffer de entrada.
 
-            Set<String> estudiantes = new HashSet<>();
+            Set<String> estudiantes = new HashSet<String>();
             int cantEstudiantes;
             String nameStudent;
             boolean search;
